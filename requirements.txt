@@ -2,4 +2,5 @@ pandas
 numpy
 Flask
 scikit-learn
--e .
+dill
+#-e .
