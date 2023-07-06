@@ -32,7 +32,7 @@ Please ensure that you comply with the terms and conditions of the data source w
 ![Web Application Screenshot](extra files/pic-2.PNG)
 ## License
 
-This project is licensed under the [insert license].
+This project is licensed under the [LICENSE].
 
 ## Contributions
 
