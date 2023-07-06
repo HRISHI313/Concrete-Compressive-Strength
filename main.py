@@ -29,7 +29,7 @@ def main():
     """, unsafe_allow_html=True)
 
     # Display the page title
-    st.markdown('<h1 class="title">Cement Price Prediction</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="title">Concrete Compressive Strength</h1>', unsafe_allow_html=True)
 
     # Create input fields for the user to enter parameter values
     cement = st.number_input("Cement", min_value=0.0, max_value=1000.0, help="Enter the amount of cement in kg")
@@ -62,7 +62,8 @@ def main():
         prediction = model.predict(processed_data)
 
         # Display the prediction to the user with context
-        st.markdown('The Compressive strength of concrete : ' % prediction[0], unsafe_allow_html=True)
+        st.markdown('The Compressive strength of concrete : ' + repr(prediction[0]), unsafe_allow_html=True)
+        st.balloons()
 
 
 if __name__ == "__main__":

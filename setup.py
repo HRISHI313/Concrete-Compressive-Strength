@@ -17,7 +17,7 @@ def get_requirements(file_path:str)-> List[str]:
 
 
 setup(
-name='Cement Price Prediction',
+name='Concrete Compressive Strength',
 version='0.0.1',
 author='Abishek Banerjee',
 author_email='abishekbanerjee10@gmail.com',
