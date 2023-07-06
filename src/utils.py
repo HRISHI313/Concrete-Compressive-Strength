@@ -39,3 +39,10 @@ def evalute_model(x_train,y_train,x_test,y_test,models):
 
     except Exception as e:
             logging.exception('Error occurred in Data ingestion Config: %s', e)
+
+import pickle
+
+def load_object(file_path):
+    with open(file_path, 'rb') as file:
+        obj = pickle.load(file)
+    return obj

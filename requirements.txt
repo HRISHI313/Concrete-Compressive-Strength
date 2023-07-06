@@ -3,4 +3,5 @@ numpy
 Flask
 scikit-learn
 dill
+streamlit
 #-e .
