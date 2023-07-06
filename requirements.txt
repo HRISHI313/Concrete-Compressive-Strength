@@ -4,4 +4,4 @@ Flask
 scikit-learn
 dill
 streamlit
-#-e .
+-e .
