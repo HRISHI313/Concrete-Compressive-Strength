@@ -27,9 +27,10 @@ Please ensure that you comply with the terms and conditions of the data source w
 6. View the predicted compressive strength and accompanying information.
 
 ## Example
+![pic-1](https://github.com/HRISHI313/Concrete-Compressive-Strength/assets/121008747/a1c4c3cb-a45b-428f-becf-e0170b67853b)
 
-![Web Application Screenshot](extra files/pic-1.PNG)
-![Web Application Screenshot](extra files/pic-2.PNG)
+![pic-2](https://github.com/HRISHI313/Concrete-Compressive-Strength/assets/121008747/b67ca25f-4b4a-40fa-ab35-05f612c06c3c)
+
 ## License
 
 This project is licensed under the [LICENSE].
